@@ -228,7 +228,7 @@ result = cv2.putText(result, text2, (img_size[0] // 30, img_size[1] // 9), cv2.F
 
 ### Pipeline (video)
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./test_videos_output/project_video.mp4)
 
 ---
 
